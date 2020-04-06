@@ -39,29 +39,36 @@ I'm currently a Junior at UH Manoa, studying to get my BS in Computer Science. I
 
 ## User Guide
 
-Landing page (Coming soon)
+Landing page 
+
+option # 1 
+
+
+#2
 
 
 About page (Coming soon)
 
 
-User home page (Coming soon)
-
-
 Admin home page (Coming soon)
+
+
+User home page (Coming soon)
 
 
 User profile page (top part devoted to user profile - interests, level, etc; bottom part devoted to progress tracking – see “Beyond the basics” for more details)
 
 
+Edit Profile (Coming soon)
+
+
 Find users page (Coming soon)
 
 
+Calender (Coming soon)
+
+
 Contact user page which provides user’s info (email address, phone number, etc.) (accessible from “message” button on matched users page)
-Edit PRofile (Coming soon)
-
-
-Calander (Coming soon)
 
 
 ## Coming Soon
