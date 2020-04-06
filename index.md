@@ -21,26 +21,31 @@ Notes on privacy and safety: Users can only sign up if they are current UH stude
 Add decription and image.
 
 ### Lucy Rock
+<p align="center"><img src="./images/lucy.jpg" height="250" width="250"></p>
 Add decription and image.
 
 ### Sophia Rathyen
 Add description and image
 
 ### Nathan Anderson
-<p align="center"><img src="./images/Nathan.png" height="250" width="250"></p>
+<p align="center"><img src="./images/cyueharaProfilePic.JPG" height="250" width="250"></p>
 This is where the description of Nathan goes.
 
 ### Christine Uehara
+<p align="center"><img src="./images/lucy.jpg" height="250" width="250"></p>
 Add decription and image.
 
 ## User Guide
 
 Landing page (Coming soon)
+About page (Coming soon)
 User home page (Coming soon)
 Admin home page (Coming soon)
 User profile page (top part devoted to user profile - interests, level, etc; bottom part devoted to progress tracking – see “Beyond the basics” for more details)
-Matched users page (Coming soon)
+Find users page (Coming soon)
 Contact user page which provides user’s info (email address, phone number, etc.) (accessible from “message” button on matched users page)
+Edit PRofile (Coming soon)
+Calander (Coming soon)
 
 
 ## Coming Soon
