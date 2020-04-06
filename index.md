@@ -41,8 +41,10 @@ I'm currently a Junior at UH Manoa, studying to get my BS in Computer Science. I
 
 Landing page 
 
-option # 1 
+#1 
 <p align="center"><img src="./images/landing_1.png"></p>
+
+OR
 
 #2
 <p align="center"><img src="./images/landing_2.png"></p>
