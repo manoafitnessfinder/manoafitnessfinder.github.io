@@ -1,6 +1,7 @@
 ## Table of contents
 
 * [Description](#description)
+* [Team Members](#team-members)
 * [User Guide](#user-guide)
 * [Coming Soon](#coming-soon)
 
@@ -14,6 +15,23 @@ Advanced implementation would also include the ability to document meetups (for 
 
 Notes on privacy and safety: Users can only sign up if they are current UH students. The website would also warn users when setting up a meeting with a matched user to meet in advance in a public place, like the gym. In the “Beyond the Basics” section I go into detail on a scheduling/progress tracking feature that would allow users to document every single meeting, which should deter other users with dubious intentions.
 
+
+## Team Members
+### Patrick McCrindle
+Add decription and image.
+
+### Lucy Rock
+Add decription and image.
+
+### Sophia Rathyen
+Add description and image
+
+### Nathan Anderson
+![](images/Nathan.png)
+This is where the description of Nathan goes.
+
+### Christine Uehara
+Add decription and image.
 
 ## User Guide
 
