@@ -27,8 +27,7 @@ Add decription and image.
 Add description and image
 
 ### Nathan Anderson
-![](./images/Nathan.png)
-
+<img src="./images/Nathan.png" height="250" width="250">
 This is where the description of Nathan goes.
 
 ### Christine Uehara
