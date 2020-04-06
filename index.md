@@ -22,7 +22,7 @@ Add decription and image.
 
 ### Lucy Rock
 <p align="center"><img src="./images/lucy.jpg" height="250" width="250"></p>
-Add decription and image.
+I'm currently a Junior at UH Manoa, studying to get my BS in Computer Science. I am excited for this assignment because I have always had an interest in web design, and I can't wait to apply what I've learned in this class so far.
 
 ### Sophia Rathyen
 <p align="center"><img src="./images/sophia.png" height="250" width="250"></p>
@@ -39,13 +39,27 @@ Add decription and image.
 ## User Guide
 
 Landing page (Coming soon)
+
+
 About page (Coming soon)
+
+
 User home page (Coming soon)
+
+
 Admin home page (Coming soon)
+
+
 User profile page (top part devoted to user profile - interests, level, etc; bottom part devoted to progress tracking – see “Beyond the basics” for more details)
+
+
 Find users page (Coming soon)
+
+
 Contact user page which provides user’s info (email address, phone number, etc.) (accessible from “message” button on matched users page)
 Edit PRofile (Coming soon)
+
+
 Calander (Coming soon)
 
 
@@ -53,6 +67,7 @@ Calander (Coming soon)
 
 SCHEDULING PAGE - Users can schedule workouts: If the other user agrees, to a proposed match, they can use a scheduling page to create a new scheduled workout (date, time, place). This workout will be visible to ONLY the two users it concerns to protect their privacy.
 PROGRESS TRACKING - Once the date/time passes for a scheduled workout, it will go into the user’s “progress” section of their profile – something like “(user1name) completed a 2.5 mile run with (user2name) on (date).” The user is then able to go in and edit the workout to add the time it was completed in, as well as add a picture that might have been taken on the run which they want to share. This will be posted to the friend feed if a “public” switch is toggled to on. Things like “place” can be toggled to “private” to protect the privacy of anyone who goes on recurring runs in the same place.
+
 Progress tracking, ctd: Progress tracking would have an “overall” card displaying your first workout vs. your most recent workout. For example, “first recorded bench press: 100 lb” and beneath it “most recent PR: 200 lbs with (spotterusername)”.
 FRIEND FEED PAGE - All public progress cards are displayed for friends and matched users (maybe a feed which includes everyone on site?)
 Users can toggle match finding on/off if they find the perfect gym buddy, so they can instead use the site solely to record their progress.
