@@ -19,7 +19,7 @@ Notes on privacy and safety: Users can only sign up if they are current UH stude
 ## Team Members
 ### Patrick McCrindle
 <p align="center"><img src="./images/patrick.jpg" height="250" width="250"></p>
-Add decription.
+I'm currently a Junior at UH Manoa studying Security Science. Having had no prior expierence with website design this class has been a whirlwind of new information. My interests for the this project is learning to implement basic website security and refining my knowledge of software engineering.
 
 ### Lucy Rock
 <p align="center"><img src="./images/lucy.jpg" height="250" width="250"></p>
@@ -27,7 +27,7 @@ I'm currently a Junior at UH Manoa, studying to get my BS in Computer Science. I
 
 ### Sophia Rathyen
 <p align="center"><img src="./images/sophia.png" height="250" width="250"></p>
-Add description and image
+Add description.
 
 ### Nathan Anderson
 <p align="center"><img src="./images/Nathan.png" height="250" width="250"></p>
