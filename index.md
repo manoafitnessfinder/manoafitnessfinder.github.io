@@ -25,6 +25,7 @@ Add decription and image.
 Add decription and image.
 
 ### Sophia Rathyen
+<p align="center"><img src="./images/sophia.png" height="250" width="250"></p>
 Add description and image
 
 ### Nathan Anderson
