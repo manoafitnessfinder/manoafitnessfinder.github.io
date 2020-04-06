@@ -30,7 +30,7 @@ Add description and image
 
 ### Nathan Anderson
 <p align="center"><img src="./images/Nathan.png" height="250" width="250"></p>
-This is where the description of Nathan goes.
+Website design is my passion. Growing up on my father's Javascript farm gave me a lifelong love of creating websites and an appreciation of the development skills required. It's become my dream to create the best Meteor app React designed intellij developed website for finding fitness partners in the Manoa area.
 
 ### Christine Uehara
 <p align="center"><img src="./images/cyueharaProfilePic.JPG" height="250" width="250"></p>
