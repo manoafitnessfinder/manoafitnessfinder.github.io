@@ -18,7 +18,8 @@ Notes on privacy and safety: Users can only sign up if they are current UH stude
 
 ## Team Members
 ### Patrick McCrindle
-Add decription and image.
+<p align="center"><img src="./images/patrick.jpg" height="250" width="250"></p>
+Add decription.
 
 ### Lucy Rock
 <p align="center"><img src="./images/lucy.jpg" height="250" width="250"></p>
