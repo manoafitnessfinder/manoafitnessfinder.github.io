@@ -28,11 +28,11 @@ Add decription and image.
 Add description and image
 
 ### Nathan Anderson
-<p align="center"><img src="./images/cyueharaProfilePic.JPG" height="250" width="250"></p>
+<p align="center"><img src="./images/Nathan.png" height="250" width="250"></p>
 This is where the description of Nathan goes.
 
 ### Christine Uehara
-<p align="center"><img src="./images/lucy.jpg" height="250" width="250"></p>
+<p align="center"><img src="./images/cyueharaProfilePic.JPG" height="250" width="250"></p>
 Add decription and image.
 
 ## User Guide
