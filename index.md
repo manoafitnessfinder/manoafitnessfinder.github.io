@@ -72,7 +72,7 @@ User home page (Coming soon)
 
 
 User profile page
-<p align="center"><img src="./images/userprofile.png"></p>
+<p align="center"><img src="./images/userprofile.png" width="400"></p>
 <b>Notes:</b><br/>
 * Later, will possibly add a "progress tracking" feature on the bottom part of page<br/>
 * Add a "add as friend" feature<br/><br/>
@@ -82,10 +82,10 @@ Edit Profile (Coming soon)
 
 
 Match/Find users page
-<p align="center"><img src="./images/match.png"></p>
+<p align="center"><img src="./images/match.png" width="400"></p>
 
 Schedule/Calendar page
-<p align="center"><img src="./images/schedule.png"></p>
+<p align="center"><img src="./images/schedule.png" width="400"></p>
 
 ## Coming Soon
 
