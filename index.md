@@ -58,7 +58,16 @@ OR
 About page (Coming soon)
 
 
+Login page (Coming soon)
+<p align="center"><img src="./images/image1.jpg"></p>
+
+
+Sign Up page (Coming soon)
+<p align="center"><img src="./images/image3.jpg"></p>
+
+
 Admin home page (Coming soon)
+<p align="center"><img src="./images/image0.jpg"></p>
 
 
 User home page (Coming soon)
