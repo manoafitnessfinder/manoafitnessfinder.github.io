@@ -71,8 +71,14 @@ Description is a work in progress as feature-set hasn't been decided on. All use
 <p align="center"><img src="./images/image0.jpg"></p>
 
 
-### User home page (Coming soon)
-Feature-set is a work in progress.
+### User home page 
+This is what the user will see after they log-in to their account. 
+
+Version #1 
+<p align="center"><img src="./images/UserHomePage1.png" width="400"></p>
+
+Version #2 
+<p align="center"><img src="./images/UserHomePage2.png" width="400"></p>
 
 ### User profile page
 
