@@ -35,7 +35,7 @@ Website design is my passion. Growing up on my father's Javascript farm gave me 
 
 ### Christine Uehara
 <p align="center"><img src="./images/cyueharaProfilePic.JPG" height="250" width="250"></p>
-I'm currently a Junior at UH Manoa, studying to get my BS in Computer Science. I have some experience in designing a website using a website developer, nothing like what we are learning in class. I am excited to take what I learned while working on this project and apply it to the website I am currently designing for work. 
+I'm currently a Junior at UH Manoa, studying to get my BS in Computer Science. I have some experience in designing websites using a website developer, nothing like what we are learning in class. I am excited to take what I learned while working on this project and apply it to the website I am currently designing for work. 
 
 ## User Guide
 
