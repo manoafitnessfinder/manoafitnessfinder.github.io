@@ -71,24 +71,21 @@ Admin home page (Coming soon)
 User home page (Coming soon)
 
 
-User profile page (top part devoted to user profile - interests, level, etc; bottom part devoted to progress tracking – see “Beyond the basics” for more details)
-<p align="center"><img src="./images/image0.jpg"></p>
+User profile page
+<p align="center"><img src="./images/userprofile.png"></p>
 <b>Notes:</b><br/>
-* Later, will possibly add a "progress tracking" feature<br/>
-* Add a "add as friend" feature
+* Later, will possibly add a "progress tracking" feature on the bottom part of page<br/>
+* Add a "add as friend" feature<br/><br/>
 
 
 Edit Profile (Coming soon)
 
 
-Find users page (Coming soon)
+Match/Find users page
+<p align="center"><img src="./images/match.png"></p>
 
-
-Calender (Coming soon)
-
-
-Contact user page which provides user’s info (email address, phone number, etc.) (accessible from “message” button on matched users page)
-
+Schedule/Calendar page
+<p align="center"><img src="./images/schedule.png"></p>
 
 ## Coming Soon
 
