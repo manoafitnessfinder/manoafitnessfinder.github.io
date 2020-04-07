@@ -75,10 +75,10 @@ Description is a work in progress as feature-set hasn't been decided on. All use
 This is what the user will see after they log-in to their account. 
 
 Version #1 
-
+<p align="center"><img src="./images/UserHomePage1.png"></p>
 
 Version #2 
-
+<p align="center"><img src="./images/UserHomePage2.png"></p>
 
 ### User profile page
 
