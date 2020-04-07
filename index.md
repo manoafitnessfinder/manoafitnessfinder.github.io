@@ -75,7 +75,7 @@ User profile page
 <p align="center"><img src="./images/userprofile.png" width="400"></p>
 <b>Notes:</b><br/>
 * Later, will possibly add a "progress tracking" feature on the bottom part of page<br/>
-* Add a "add as friend" feature<br/><br/>
+* Add an "add as friend" feature<br/><br/>
 
 
 Edit Profile (Coming soon)
