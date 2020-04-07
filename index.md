@@ -72,6 +72,10 @@ User home page (Coming soon)
 
 
 User profile page (top part devoted to user profile - interests, level, etc; bottom part devoted to progress tracking – see “Beyond the basics” for more details)
+<p align="center"><img src="./images/image0.jpg"></p>
+<b>Notes:</b><br/>
+* Later, will possibly add a "progress tracking" feature<br/>
+* Add a "add as friend" feature
 
 
 Edit Profile (Coming soon)
