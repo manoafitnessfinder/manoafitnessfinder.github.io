@@ -27,7 +27,7 @@ I'm currently a Junior at UH Manoa, studying to get my BS in Computer Science. I
 
 ### Sophia Rathyen
 <p align="center"><img src="./images/sophia.png" height="250" width="250"></p>
-Add description.
+I'm a junior at UH Manoa double majoring in Computer Science and Russian. I have a passion for graphic design and art and hope to make use of some of those skills while designing this site. Along the way, I also hope to become adept in using Meteor and MongoDB. I'm looking forward to merging my interest in fitness as well as software engineering to create a useful, beneficial website for other students.
 
 ### Nathan Anderson
 <p align="center"><img src="./images/Nathan.png" height="250" width="250"></p>
