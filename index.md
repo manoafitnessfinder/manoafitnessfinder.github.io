@@ -45,17 +45,15 @@ Version #1
 <p align="center"><img src="./images/home_1.png"></p>
 
 
-Version #2
+About page
 
-#1
+Version #1
 <p align="center"><img src="./images/landing_1.png"></p>
 
 OR
 
-#2
+Version #2
 <p align="center"><img src="./images/landing_2.png"></p>
-
-About page (Coming soon)
 
 
 Login page (Coming soon)
