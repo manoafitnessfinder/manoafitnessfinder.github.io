@@ -1,3 +1,5 @@
+<p align="center"><img src="./images/landing_1.png"></p>
+
 ## Table of contents
 
 * [Description](#description)
@@ -41,44 +43,38 @@ I'm currently a Junior at UH Manoa, studying to get my BS in Computer Science. I
 
 ### Landing page 
 This is the user's introduction to Manoa Fitness Finder.<br>
-Version #1
+
 <p align="center"><img src="./images/home_1.png"></p>
 
 
 ### About page
 This page presents basic information about the purpose and vision of our app.<br>
-Version #1
+
 <p align="center"><img src="./images/landing_1.png"></p>
-
-OR
-
-Version #2
-<p align="center"><img src="./images/landing_2.png"></p>
-
 
 ### Login page (Coming soon)
 All links that contain "Login" lead here. Users can access their account specific feed pages and profile information once logged in.
+
 <p align="center"><img src="./images/image1.jpg"></p>
 
 
 ### Sign Up page (Coming soon)
 For new users to create their account and add information to their profile. 
+
 <p align="center"><img src="./images/image3.jpg"></p>
 
 
 ### Admin home page (Coming soon)
 Description is a work in progress as feature-set hasn't been decided on. All users visible and certain administrative actions can be taken from this page.
+
 <p align="center"><img src="./images/image0.jpg"></p>
 
 
 ### User home page 
 This is what the user will see after they log-in to their account. 
 
-Version #1 
 <p align="center"><img src="./images/UserHomePage1.png"></p>
 
-Version #2 
-<p align="center"><img src="./images/UserHomePage2.png"></p>
 
 ### User profile page
 
@@ -99,10 +95,10 @@ A page that filters other profiles visible to the user based on the users prefer
 Allows logged in users to see their matches schedules and post their workouts. Can switch between calendar view and events view.
 <p align="center"><img src="./images/schedule.png" width="400"></p>
 
-## Coming Soon
+## Potential Updates
 
-SCHEDULING PAGE - Users can schedule workouts: If the other user agrees, to a proposed match, they can use a scheduling page to create a new scheduled workout (date, time, place). This workout will be visible to ONLY the two users it concerns to protect their privacy.<br>
+SCHEDULING PAGE - Users can schedule workouts: If the other user agrees, to a proposed match, they can use a scheduling page to create a new scheduled workout (date, time, place). This workout will be visible to ONLY the two users it concerns to protect their privacy.<br><br>
 PROGRESS TRACKING - Once the date/time passes for a scheduled workout, it will go into the user’s “progress” section of their profile – something like “(user1name) completed a 2.5 mile run with (user2name) on (date).” The user is then able to go in and edit the workout to add the time it was completed in, as well as add a picture that might have been taken on the run which they want to share. This will be posted to the friend feed if a “public” switch is toggled to on. Things like “place” can be toggled to “private” to protect the privacy of anyone who goes on recurring runs in the same place.<br>
-Progress tracking, ctd: Progress tracking would have an “overall” card displaying your first workout vs. your most recent workout. For example, “first recorded bench press: 100 lb” and beneath it “most recent PR: 200 lbs with (spotterusername)”.<br>
-FRIEND FEED PAGE - All public progress cards are displayed for friends and matched users (maybe a feed which includes everyone on site?)<br>
-Users can toggle match finding on/off if they find the perfect gym buddy, so they can instead use the site solely to record their progress.<br>
+Progress tracking, ctd: Progress tracking would have an “overall” card displaying your first workout vs. your most recent workout. For example, “first recorded bench press: 100 lb” and beneath it “most recent PR: 200 lbs with (spotterusername)”.<br><br>
+FRIEND FEED PAGE - All public progress cards are displayed for friends and matched users (maybe a feed which includes everyone on site?)<br><br>
+Users can toggle match finding on/off if they find the perfect gym buddy, so they can instead use the site solely to record their progress.<br><br>
