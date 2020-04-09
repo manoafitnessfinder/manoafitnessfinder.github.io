@@ -15,7 +15,7 @@ The solution: The Fitness Finder application allows students to log in to the ap
 
 Advanced implementation would also include the ability to document meetups (for safety or progress tracking), upload photos for each completed outing, and a feed where users can see the completed meetups/workouts their friends/matched users have done.
 
-Notes on privacy and safety: Users can only sign up if they are current UH students. The website would also warn users when setting up a meeting with a matched user to meet in advance in a public place, like the gym. In the “Beyond the Basics” section I go into detail on a scheduling/progress tracking feature that would allow users to document every single meeting, which should deter other users with dubious intentions.
+Notes on privacy and safety: Users can only sign up if they have UH email address. The website would also warn users when setting up a meeting with a matched user to meet in advance in a public place, like the gym. In the “Beyond the Basics” section I go into detail on a scheduling/progress tracking feature that would allow users to document every single meeting, which should deter other users with dubious intentions.
 
 
 ## Team Members
