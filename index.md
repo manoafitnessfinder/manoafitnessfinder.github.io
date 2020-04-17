@@ -1,4 +1,4 @@
-<p align="center"><img src="./images/M1-Landing.PNG"></p>
+<p align="center"><img src="./images/ManoaFitnessFinderLogo.png"></p>
 
 ## Table of contents
 
@@ -60,8 +60,8 @@ All links that contain "Login" lead here. Users can access their account specifi
 <p align="center"><img src="./images/M1-SignIn.PNG"></p>
 
 
-### Sign Up page (Coming soon)
-For new users to create their account and add information to their profile. 
+### Sign Up page
+Allows new users to create accounts on Manoa Fitness Finder. Also prompts for basic user information which will contribute to their account. 
 
 <p align="center"><img src="./images/M1-SignUp.PNG"></p>
 
@@ -80,6 +80,7 @@ This is what the user will see after they log-in to their account.
 
 
 ### User profile page
+Displays the users current information as other people on the website would view them. Contains a link to edit their information.
 
 <p align="center"><img src="./images/M1-User.png" width="400"></p>
 <b>Notes:</b><br/>
