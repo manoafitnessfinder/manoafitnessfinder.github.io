@@ -79,7 +79,7 @@ Allows new users to create accounts on Manoa Fitness Finder. Also prompts for ba
 ### User profile page
 Displays the users current information as other people on the website would view them. Contains a link to edit their information.
 
-<p align="center"><img src="./images/userprofile2.png" width="400"></p>
+<p align="center"><img src="./images/M1-User2.png" width="400"></p>
 <b>Notes:</b><br/>
 * Later, will possibly add a "progress tracking" feature on the bottom part of page<br/>
 * Add an "add as friend" feature<br/><br/>
