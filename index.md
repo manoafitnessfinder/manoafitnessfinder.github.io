@@ -1,12 +1,11 @@
 <p align="center"><img src="./images/ManoaFitnessFinderLogo.png"></p><br><br>
 
 This website can be found at:<br>
-https://manoafitnessfinder.meteorapp.com
+[https://manoafitnessfinder.meteorapp.com](https://manoafitnessfinder.meteorapp.com)
 
 <br>
 The repository for this website can be found at:<br>
-https://github.com/manoafitnessfinder
-
+[https://github.com/manoafitnessfinder](https://github.com/manoafitnessfinder)
 
 ## Table of contents
 
