@@ -95,33 +95,34 @@ Displays the users current information as other people on the website would view
 
 ## Coming Soon
 
-### Admin home page (Coming soon)
+### Admin home page
 Description is a work in progress as feature-set hasn't been decided on. All users visible and certain administrative actions can be taken from this page.
 
 <p align="center"><img src="./images/image0.jpg"></p>
 
 
-### User home page (Coming Soon)
+### User home page
 Work in progress
 This is what the user will see after they log-in to their account. 
 
 <p align="center"><img src="./images/UserHomePage1.png"></p>
 
-### Edit Profile (Coming soon)
-Coming soon
 
-
-### Match/Find users page (Coming Soon)
+### Match/Find users page
 A page that filters other profiles visible to the user based on the users preferences. This page looks to match Mentors/Mentees,<!--is Mentee a word? Like, I'm sure it is but it just doesn't feel right.--> gym partners of equal level, and workout interests.
 <p align="center"><img src="./images/match.png" width="400"></p>
 
 
-### Schedule/Calendar page (Coming Soon)
+### Schedule/Calendar page
 Allows logged in users to see their matches schedules and post their workouts. Can switch between calendar view and events view.
 <p align="center"><img src="./images/schedule.png" width="400"></p>
 
 
 Users can schedule workouts: If the other user agrees, to a proposed match, they can use a scheduling page to create a new scheduled workout (date, time, place). This workout will be visible to ONLY the two users it concerns to protect their privacy.<br><br>
+
+### Edit Profile
+
+User will be able edit their profile. Including interests, picture, first and last name.
 
 ## Potential Features
 
