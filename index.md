@@ -113,7 +113,7 @@ Allows logged in users to see their matches schedules and post their workouts. C
 
 <a href="https://github.com/manoafitnessfinder/app/projects/1">MileStone 1</a>
 
-<p align="center"><img src="./images/milestone_2.PNG" width="400"></p>
+<p align="center"><img src="./images/milestone_1.PNG" width="400"></p>
 
 ## Milestone 2
 
