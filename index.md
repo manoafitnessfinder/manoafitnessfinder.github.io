@@ -103,12 +103,16 @@ Allows logged in users to see their matches schedules and post their workouts. C
 
 
 ## Milestone 1
-Coming Soon
 
+<a href="https://github.com/manoafitnessfinder/app/projects/1">MileStone 1</a>
+
+<p align="center"><img src="./images/milestone_2.PNG" width="400"></p>
 
 ## Milestone 2
-Coming Soon
 
+<a href="https://github.com/manoafitnessfinder/app/projects/2">MileStone 2</a>
+
+<p align="center"><img src="./images/milestone_2.PNG" width="400"></p>
 
 ## Coming Soon
 SCHEDULING PAGE - Users can schedule workouts: If the other user agrees, to a proposed match, they can use a scheduling page to create a new scheduled workout (date, time, place). This workout will be visible to ONLY the two users it concerns to protect their privacy.<br><br>
