@@ -1,4 +1,4 @@
-<p align="center"><img src="./images/M1-Landing.png"></p>
+<p align="center"><img src="./images/M1-Landing.PNG"></p>
 
 ## Table of contents
 
