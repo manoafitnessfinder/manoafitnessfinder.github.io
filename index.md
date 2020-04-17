@@ -55,28 +55,33 @@ View our current website at <a href="http://manoafitnessfinder.meteorapp.com/#/"
 ## User Guide
 
 ### Landing page 
+[http://manoafitnessfinder.meteorapp.com/#/](http://manoafitnessfinder.meteorapp.com/#/)<br>
 This is the user's introduction to Manoa Fitness Finder.<br>
 
 <p align="center"><img src="./images/M1-Landing.PNG"></p>
 
 
 ### About page
+[http://manoafitnessfinder.meteorapp.com/#/about](http://manoafitnessfinder.meteorapp.com/#/about)<br>
 This page presents basic information about the purpose and vision of our app.<br>
 
 <p align="center"><img src="./images/M1-About.png"></p>
 
 ### Login page
+[http://manoafitnessfinder.meteorapp.com/#/signin](http://manoafitnessfinder.meteorapp.com/#/signin)<br>
 All links that contain "Login" lead here. Users can access their account specific feed pages and profile information once logged in.
 
 <p align="center"><img src="./images/M1-SignIn.PNG"></p>
 
 
 ### Sign Up page
+[http://manoafitnessfinder.meteorapp.com/#/signup](http://manoafitnessfinder.meteorapp.com/#/signup)<br>
 Allows new users to create accounts on Manoa Fitness Finder. Also prompts for basic user information which will contribute to their account. 
 
 <p align="center"><img src="./images/M1-SignUp.PNG"></p>
 
 ### User profile page
+[http://manoafitnessfinder.meteorapp.com/#/profile](http://manoafitnessfinder.meteorapp.com/#/profile)<br>
 Displays the users current information as other people on the website would view them. Contains a link to edit their information.
 
 <p align="center"><img src="./images/M1-User2.png" width="400"></p>
