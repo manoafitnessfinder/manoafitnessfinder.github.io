@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3f550c4-e3a5-4e39-9eae-3dcba58b7c4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/contact_us.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/edit_profile.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/milestone_2_complete.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/testitmonials.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/user_landing.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
@@ -45,10 +50,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1588139202670">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1588141945867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588139202670" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588141945867" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1587106127755">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
