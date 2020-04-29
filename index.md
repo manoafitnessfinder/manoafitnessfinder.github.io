@@ -65,7 +65,7 @@ This is the landing page for a user who hasn't yet created a profile.<br>
 <p align="center"><img src="./images/M1-Landing.PNG" alt = ""></p>
 
 ### Testimonials Page
-XXX ADD GALAXY LINK
+XXX ADD GALAXY LINK<br>
 Here are just a few reviews to encourage others to use the site.
 
 <p align="center"><img src="./images/testitmonials.PNG" width="400" alt = ""></p>
@@ -77,7 +77,7 @@ This page gives a little more information about Manoa Fitness Finder.<br>
 <p align="center"><img src="./images/M1-About.png" width="400" alt = ""></p>
 
 ### Contact Page
-XXX ADD GALAXY LINK
+XXX ADD GALAXY LINK<br>
 This allows user who are having issues to contact the development team to help resolve them.
 <p align="center"><img src="./images/contact_us.PNG" width="400" alt = ""></p>
 
@@ -103,15 +103,12 @@ After creating a login the user is directed here to fill in their profile.
 
 ### User profile Page
 [http://manoafitnessfinder.meteorapp.com/#/profile](http://manoafitnessfinder.meteorapp.com/#/profile)<br>
-Displays the users current information as other people on the website would view them. Contains a link to edit their information.
+Displays the users current information as other people on the website would view them. Contains a link to edit profile page.
 
 <p align="center"><img src="./images/M1-User2.png" width="400" alt = ""></p>
-<b>Notes:</b><br/>
-* Later, will possibly add a "progress tracking" feature on the bottom part of page<br/>
-* Add an "add as friend" feature<br/><br/>
 
 ### User Landing Page
-XXX ADD GALAXY LINK
+XXX ADD GALAXY LINK<br>
 The home page as now changed to show you more relevant information such as events that your friends have scheduled that you may want to join.
 
 <p align="center"><img src="./images/user_landing.PNG" width="400" alt = ""></p>
@@ -124,11 +121,18 @@ This page lists all users on the site, allowing you to filter based on age, inte
 
 ### Schedule
 [http://manoafitnessfinder.meteorapp.com/#/schedule](http://manoafitnessfinder.meteorapp.com/#/schedule)<br>
-Here you'll be able to view events that you and your friends have created.
+Here you'll be able to view events that you and your friends have created. As well as create your own.
 
 <p align="center"><img src="./images/events.png"></p>
 
+## Edit Schedule
+XXX ADD GALAXY LINK <br>
+This page allows you edit events that you have made. You can include which of your friends are joining you on this event.
+
+<p align="center"><img src="./images/edit_event.png" width="400" alt = ""></p>
+
 ### Other Profiles
+XXX ADD GALAXY LINK <br>
 This is the page to view another User's profile. The edit user link will be disabled in future builds.
 
 <p align="center"><img src="./images/OtherUser.PNG"></p>
