@@ -89,6 +89,28 @@ Displays the users current information as other people on the website would view
 * Later, will possibly add a "progress tracking" feature on the bottom part of page<br/>
 * Add an "add as friend" feature<br/><br/>
 
+### All Users Page
+[http://manoafitnessfinder.meteorapp.com/#/AllProfiles](http://manoafitnessfinder.meteorapp.com/#/AllProfiles)<br>
+This page lists all users on the site, allowing you to filter based on age, interests, fitness level, and seeking status.
+
+<p align="center"><img src="./images/AllProfiles.PNG"></p>
+
+### Events
+[http://manoafitnessfinder.meteorapp.com/#/schedule](http://manoafitnessfinder.meteorapp.com/#/schedule)<br>
+Here you'll be able to view events that you and your friends have created.
+
+<p align="center"><img src="./images/events.png"></p>
+
+### Another User
+This is the page to view another User's profile. There will be key features missing such as the edit profile button.
+
+<p align="center"><img src="./images/OtherUser.PNG"></p>
+
+### Friends Page
+[http://manoafitnessfinder.meteorapp.com/#/friends](http://manoafitnessfinder.meteorapp.com/#/friends)<br>
+Lists all of the profiles you have added to your friends list.
+
+<p align="center"><img src="./images/FriendsList.PNG"></p>
 
 ## Milestone 1
 
