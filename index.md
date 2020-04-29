@@ -81,7 +81,7 @@ XXX ADD GALAXY LINK<br>
 This allows users who are having issues to contact the development team to help resolve them.
 <p align="center"><img src="./images/contact_us.PNG" width="400" alt = ""></p>
 
-### Login page
+### Login Page
 [http://manoafitnessfinder.meteorapp.com/#/signin](http://manoafitnessfinder.meteorapp.com/#/signin)<br>
 All links that contain "login" lead here. Much of the site's functionality (e.g. matching, scheduling) is hidden until a user is logged in.
 
@@ -95,17 +95,17 @@ This page allows new users to create accounts on Manoa Fitness Finder. Once the 
 <p align="center"><img src="./images/M1-SignUp.PNG" width="400" alt = ""></p>
 
 
-### Edit Profile
+### Edit Profile Page
 [http://manoafitnessfinder.meteorapp.com/#/editprofile/JmfaFLxJx3iq3rptQ](http://manoafitnessfinder.meteorapp.com/#/editprofile/JmfaFLxJx3iq3rptQ)<br>
 Once a user has signed up, they are directed to this page, where they can edit the information that displays on their profile, including information used for matching.
 
 <p align="center"><img src="./images/edit_profile.PNG" width="400" alt = ""></p>
 
-### User profile Page
+### User Profile Page
 [http://manoafitnessfinder.meteorapp.com/#/profile](http://manoafitnessfinder.meteorapp.com/#/profile)<br>
 This page displays the current user's user profile information (name, age, gender, blurb, image) as well as their matching information (interests, seeking, level, goals). It displays the information as another user would view it. On the top right, it contains a link to the Edit Profile page.
 
-<p align="center"><img src="./images/M1-User2.png" width="400" alt = ""></p>
+<p align="center"><img src="./images/M2-User.png" width="400" alt = ""></p>
 
 ### User Landing Page
 XXX ADD GALAXY LINK<br>
@@ -119,19 +119,19 @@ This page lists all users on the site. It will contain a filter element that all
 
 <p align="center"><img src="./images/AllProfiles.PNG"></p>
 
-### Schedule
+### Schedule Page
 [http://manoafitnessfinder.meteorapp.com/#/schedule](http://manoafitnessfinder.meteorapp.com/#/schedule)<br>
 This page lists all events owned (created) by the current user. An event can be created using the left sidebar; upcoming events are those which are later or equal to today's current minute. All other events are filtered into the past events section, which contains grayed cards. Events in the upcoming section are filtered in ascending order while those in the past section are sorted in descending order. Each event is editable via the link on the bottom right of the card, which takes the user to the Edit Event page.
 
 <p align="center"><img src="./images/events.png"></p>
 
-### Edit Event
+### Edit Event Page
 XXX ADD GALAXY LINK <br>
 This page allows the logged in user to edit events belonging to them. M3 implementation will allow users to choose other users from their friend list for the 'Include a Friend' field.
 
 <p align="center"><img src="./images/edit_event.png" width="400" alt = ""></p>
 
-### Other Profiles
+### Other Profiles Page
 XXX ADD GALAXY LINK <br>
 This is the page to view another user's profile. The edit user link (for other users than oneself) will be disabled in M3.
 
