@@ -125,7 +125,7 @@ Here you'll be able to view events that you and your friends have created. As we
 
 <p align="center"><img src="./images/events.png"></p>
 
-## Edit Schedule
+### Edit Schedule
 XXX ADD GALAXY LINK <br>
 This page allows you edit events that you have made. You can include which of your friends are joining you on this event.
 
