@@ -13,7 +13,8 @@ The repository for this website can be found at:<br>
 * [Team Members](#team-members)
 * [User Guide](#user-guide)
 * [Milestone 1](#milestone-1)
-* [Milestone 2](#milestone-1)
+* [Milestone 2](#milestone-2)
+* [Milestone 3](#milestone-3)
 * [Coming Soon](#coming-soon)
 
 ## Overview
@@ -30,6 +31,7 @@ Notes on privacy and safety: The website would also warn users when setting up a
 
 
 ## Team Members
+
 ### Patrick McCrindle
 <p align="center"><img src="./images/patrick.jpg" height="250" width="250" alt = ""></p>
 I'm currently a Junior at UH Manoa studying Security Science. Having had no prior expierence with website design this class has been a whirlwind of new information. My interests for the this project is learning to implement basic website security and refining my knowledge of software engineering.
@@ -61,7 +63,6 @@ View our current website at <a href="http://manoafitnessfinder.meteorapp.com/#/"
 This is the user's introduction to Manoa Fitness Finder.<br>
 
 <p align="center"><img src="./images/M1-Landing.PNG" alt = ""></p>
-
 
 ### About page
 [http://manoafitnessfinder.meteorapp.com/#/about](http://manoafitnessfinder.meteorapp.com/#/about)<br>
@@ -114,6 +115,33 @@ Lists all of the profiles you have added to your friends list.
 
 <p align="center"><img src="./images/FriendsList.PNG"></p>
 
+
+## Developer Guide
+
+First you will need install <a href = "https://www.meteor.com/install">Meteor</a>. Second you will need to install <a href = "https://nodejs.org/en/download/">Node.js</a>. 
+
+Thrid go to the our <a href = "https://github.com/manoafitnessfinder/app">github</a> and download it as a template. Fourth copy it to your local machine by clicking "Clone or Download". 
+
+Now cd into the app directory of the local your local copy and perform:
+
+`
+$ meteor npm install
+`
+
+Followed by:
+
+`
+$ npm install moment --save
+`
+
+With that all out of the way launch the application with the included start script:
+
+`
+$ meteor npm run start
+`
+
+Now you have a local instance running. You can modify the code as you want. Feel free to email us with issues you may be having at manoafitnessfinder@gmail.com.
+
 ## Milestone 1
 
 <a href="https://github.com/manoafitnessfinder/app/projects/1">MileStone 1</a>
@@ -132,45 +160,3 @@ Lists all of the profiles you have added to your friends list.
 
 <p align="center"><img src="./images/milestone_3.PNG" width="400" alt = ""></p>
 
-## Coming Soon
-
-### Admin home page
-Description is a work in progress as feature-set hasn't been decided on. All users visible and certain administrative actions can be taken from this page.
-
-<p align="center"><img src="./images/image0.jpg" alt = ""></p>
-
-
-### User home page
-Work in progress
-This is what the user will see after they log-in to their account. 
-
-<p align="center"><img src="./images/UserHomePage1.png" alt = ""></p>
-
-
-### Match/Find users page
-A page that filters other profiles visible to the user based on the users preferences. This page looks to match Mentors/Mentees,<!--is Mentee a word? Like, I'm sure it is but it just doesn't feel right.--> gym partners of equal level, and workout interests.
-<p align="center"><img src="./images/match.png" width="400" alt = ""></p>
-
-
-### Schedule/Calendar page
-Allows logged in users to see their matches schedules and post their workouts. Can switch between calendar view and events view.
-<p align="center"><img src="./images/schedule.png" width="400" alt = ""></p>
-
-
-Users can schedule workouts: If the other user agrees, to a proposed match, they can use a scheduling page to create a new scheduled workout (date, time, place). This workout will be visible to ONLY the two users it concerns to protect their privacy.<br><br>
-
-### Edit Profile
-
-User will be able edit their profile. Including interests, picture, first and last name.
-
-## Potential Features
-
-### Progress Tracking
-
-Once the date/time passes for a scheduled workout, it will go into the user’s “progress” section of their profile – something like “(user1name) completed a 2.5 mile run with (user2name) on (date).” The user is then able to go in and edit the workout to add the time it was completed in, as well as add a picture that might have been taken on the run which they want to share. This will be posted to the friend feed if a “public” switch is toggled to on. Things like “place” can be toggled to “private” to protect the privacy of anyone who goes on recurring runs in the same place.<br>
-Progress tracking, ctd: Progress tracking would have an “overall” card displaying your first workout vs. your most recent workout. For example, “first recorded bench press: 100 lb” and beneath it “most recent PR: 200 lbs with (spotterusername)”.<br><br>
-
-### Friend Feed Page
-
-All public progress cards are displayed for friends and matched users (maybe a feed which includes everyone on site?)<br><br>
-Users can toggle match finding on/off if they find the perfect gym buddy, so they can instead use the site solely to record their progress.<br><br>
