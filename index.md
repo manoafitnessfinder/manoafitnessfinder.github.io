@@ -19,15 +19,15 @@ The repository for this website can be found at:<br>
 
 ## Overview
 
-The problem: The freshman fifteen! So many students enter and go through college feeling too ashamed to go to the gym alone or feeling afraid to go on a run alone because of safety concerns.
+The problem: The freshman fifteen! Students who have to worry about going to the gym alone or going on a run by themselves lose the motivation to get fit.
 
-The solution: Manoa Fitness Finder allows students to log in and create a profile which allows them to set their: age, upload an image, a brief description, gender, interests (e.g. Running, Lifting, Acrobatics, Calisthenics, Walking, Hiking, and Climbing), level (e.g. beginner, intermediate, or advanced), seeking (e.g. Gym Buddy, Mentor, Mentee, or no Preference), and goals (e.g. run an 8 minute mile, squat 200 lbs, hike Stairway to Heaven). The app would pair the user with someone with matching/similar interests.
+The solution: Manoa Fitness Finder! Our app allows students to log in and create a profile. For their profile, they provide user information including age, gender, photo, and a short blurb about themselves. Next, users are prompted to provide information to facilitate matching them to the perfect fitness buddy. This includes interests (e.g. Running, Lifting, Calisthentics, Hiking), level (e.g. beginner, intermediate, advanced), seeking (e.g. gym buddy, mentor, mentee), and goals (e.g. run an 8 minute mile, squat 200 lbs). The app uses this information to pair users to others with similar information by way of a matching feature.
 
-After creating a profile you can create an event that you are intending to go on and want others to join, or sign-up for an event that someone else has posted. You can add people to your friends list after browsing the list of other users. 
+The user first creates a profile with their user information and matching information. From there, they can create/edit events via a schedule page. They can also browse other users and add them to their friend list.
 
-Advanced implementation would also include the ability to document meetups (for safety or progress tracking), upload photos for each completed outing, and a feed where users can see the completed meetups/workouts their friends/matched users have done.
+Advanced implementation might include the ability to document meetups for either safety or progress tracking, upload photos for completed outings, and view a feed of events based on the current user's friend list.
 
-Notes on privacy and safety: The website would also warn users when setting up a meeting with a matched user to meet in advance in a public place, like the gym.
+For privacy and safety, we will provide a warning for users to meet matched users in a public place.
 
 
 ## Team Members
@@ -60,86 +60,86 @@ View our current website at <a href="http://manoafitnessfinder.meteorapp.com/#/"
 
 ### Landing Page 
 [http://manoafitnessfinder.meteorapp.com/#/](http://manoafitnessfinder.meteorapp.com/#/)<br>
-This is the landing page for a user who hasn't yet created a profile.<br>
+This is the first page a new user will see before creating a profile.<br>
 
 <p align="center"><img src="./images/M1-Landing.PNG" alt = ""></p>
 
 ### Testimonials Page
 XXX ADD GALAXY LINK<br>
-Here are just a few reviews to encourage others to use the site.
+This page will contain user-submitted reviews to attract new users.
 
 <p align="center"><img src="./images/testitmonials.PNG" width="400" alt = ""></p>
 
 ### About Page
 [http://manoafitnessfinder.meteorapp.com/#/about](http://manoafitnessfinder.meteorapp.com/#/about)<br>
-This page gives a little more information about Manoa Fitness Finder.<br>
+This page provides information about Manoa Fitness Finder in short, easy to read blurbs. It's meant for prospective users who are confused or curious about how the site works.<br>
 
 <p align="center"><img src="./images/M1-About.png" width="400" alt = ""></p>
 
 ### Contact Page
 XXX ADD GALAXY LINK<br>
-This allows user who are having issues to contact the development team to help resolve them.
+This allows users who are having issues to contact the development team to help resolve them.
 <p align="center"><img src="./images/contact_us.PNG" width="400" alt = ""></p>
 
 ### Login page
 [http://manoafitnessfinder.meteorapp.com/#/signin](http://manoafitnessfinder.meteorapp.com/#/signin)<br>
-All links that contain "Login" lead here. Much of the sites functionality is hidden until you login.
+All links that contain "login" lead here. Much of the site's functionality (e.g. matching, scheduling) is hidden until a user is logged in.
 
 <p align="center"><img src="./images/M1-SignIn.PNG" width="400" alt = ""></p>
 
 
 ### Sign Up Page
 [http://manoafitnessfinder.meteorapp.com/#/signup](http://manoafitnessfinder.meteorapp.com/#/signup)<br>
-Allows new users to create accounts on Manoa Fitness Finder. After logging in then takes the user to the edit profile page to input basic user information.
+This page allows new users to create accounts on Manoa Fitness Finder. Once the user has filled out the user information on this page, they are directed to the Edit Profile page, where they can edit their user information and fill in their matching information.
 
 <p align="center"><img src="./images/M1-SignUp.PNG" width="400" alt = ""></p>
 
 
 ### Edit Profile
 [http://manoafitnessfinder.meteorapp.com/#/editprofile/JmfaFLxJx3iq3rptQ](http://manoafitnessfinder.meteorapp.com/#/editprofile/JmfaFLxJx3iq3rptQ)<br>
-After creating a login the user is directed here to fill in their profile.
+Once a user has signed up, they are directed to this page, where they can edit the information that displays on their profile, including information used for matching.
 
 <p align="center"><img src="./images/edit_profile.PNG" width="400" alt = ""></p>
 
 ### User profile Page
 [http://manoafitnessfinder.meteorapp.com/#/profile](http://manoafitnessfinder.meteorapp.com/#/profile)<br>
-Displays the users current information as other people on the website would view them. Contains a link to edit profile page.
+This page displays the current user's user profile information (name, age, gender, blurb, image) as well as their matching information (interests, seeking, level, goals). It displays the information as another user would view it. On the top right, it contains a link to the Edit Profile page.
 
 <p align="center"><img src="./images/M1-User2.png" width="400" alt = ""></p>
 
 ### User Landing Page
 XXX ADD GALAXY LINK<br>
-The home page as now changed to show you more relevant information such as events that your friends have scheduled that you may want to join.
+Once a user has logged in, they can view this landing/home page. It shows more relevant information, including events scheduled by users on the logged in user's friend list.
 
 <p align="center"><img src="./images/user_landing.PNG" width="400" alt = ""></p>
 
 ### All Users Page
 [http://manoafitnessfinder.meteorapp.com/#/AllProfiles](http://manoafitnessfinder.meteorapp.com/#/AllProfiles)<br>
-This page lists all users on the site, allowing you to filter based on age, interests, fitness level, and seeking status.
+This page lists all users on the site. It will contain a filter element that allows the logged in user to search through the list via both user profile information (age, gender) and matching information (interest, level, seeking).
 
 <p align="center"><img src="./images/AllProfiles.PNG"></p>
 
 ### Schedule
 [http://manoafitnessfinder.meteorapp.com/#/schedule](http://manoafitnessfinder.meteorapp.com/#/schedule)<br>
-Here you'll be able to view events that you and your friends have created. As well as create your own.
+This page lists all events owned (created) by the current user. An event can be created using the left sidebar; upcoming events are those which are later or equal to today's current minute. All other events are filtered into the past events section, which contains grayed cards. Events in the upcoming section are filtered in ascending order while those in the past section are sorted in descending order. Each event is editable via the link on the bottom right of the card, which takes the user to the Edit Event page.
 
 <p align="center"><img src="./images/events.png"></p>
 
-### Edit Schedule
+### Edit Event
 XXX ADD GALAXY LINK <br>
-This page allows you edit events that you have made. You can include which of your friends are joining you on this event.
+This page allows the logged in user to edit events belonging to them. M3 implementation will allow users to choose other users from their friend list for the 'Include a Friend' field.
 
 <p align="center"><img src="./images/edit_event.png" width="400" alt = ""></p>
 
 ### Other Profiles
 XXX ADD GALAXY LINK <br>
-This is the page to view another User's profile. The edit user link will be disabled in future builds.
+This is the page to view another user's profile. The edit user link (for other users than oneself) will be disabled in M3.
 
 <p align="center"><img src="./images/OtherUser.PNG"></p>
 
 ### Friends Page
 [http://manoafitnessfinder.meteorapp.com/#/friends](http://manoafitnessfinder.meteorapp.com/#/friends)<br>
-Lists all of the profiles you have added to your friends list.
+This page lists all the logged in user's added friends. Each friend card is clickable and directs to that person's profile.
 
 <p align="center"><img src="./images/FriendsList.PNG"></p>
 
@@ -178,15 +178,17 @@ $ meteor npm run lint
 
 Feel free to email us with issues you may be having at <a href = "mailto:manoafitnessfinder@gmail.com">manoafitnessfinder@gmail.com</a>.
 
-## Milestone 1
+## Milestone 1: Basic page and layout development
+Our goal for this milestone was to create a set of rough pages that would provide users with basic functionality before moving on to more complex things. We focused on simple pages including the Sign Up, Log In, Landing, and User Profile Pages. We also began to work on the layout of the site by creating a Nav Bar, Footer, and Logo.
 
-<a href="https://github.com/manoafitnessfinder/app/projects/1">MileStone 1</a>
+Milestone 1 was managed using <a href="https://github.com/manoafitnessfinder/app/projects/1">ManoaFitnessFinder GitHub Project Board M1</a>:
 
 <p align="center"><img src="./images/milestone_1.PNG" width="400" alt = ""></p>
 
-## Milestone 2
+## Milestone 2: Data model development and layout improvement
+For this milestone, we focused on site functionality which relied on a more complex data model. We implemented the All Profiles (soon to be Match), Friend, and Schedule pages, which relied on Collections. We also worked on providing editing functionality via the Edit Profile and Edit Event pages. Finally, we focused on making our site more user friendly in terms of layout and information by cleaning up known bugs, tweaking layouts, and creating the User Landing, Testimonial, and Contact pages.
 
-<a href="https://github.com/manoafitnessfinder/app/projects/2">MileStone 2</a>
+Milestone 2 was managed using <a href="https://github.com/manoafitnessfinder/app/projects/2">ManoaFitnessFinder GitHub Project Board M1</a>:
 
 <p align="center"><img src="./images/milestone_2_complete.PNG" width="400" alt = ""></p>
 
