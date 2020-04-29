@@ -65,7 +65,7 @@ This is the first page a new user will see before creating a profile.<br>
 <p align="center"><img src="./images/M1-Landing.PNG" alt = ""></p>
 
 ### Testimonials Page
-XXX ADD GALAXY LINK<br>
+[http://manoafitnessfinder.meteorapp.com/#/test](http://manoafitnessfinder.meteorapp.com/#/test)<br>
 This page will contain user-submitted reviews to attract new users.
 
 <p align="center"><img src="./images/testitmonials.PNG" width="400" alt = ""></p>
@@ -77,7 +77,7 @@ This page provides information about Manoa Fitness Finder in short, easy to read
 <p align="center"><img src="./images/M1-About.png" width="400" alt = ""></p>
 
 ### Contact Page
-XXX ADD GALAXY LINK<br>
+[http://manoafitnessfinder.meteorapp.com/#/contact](http://manoafitnessfinder.meteorapp.com/#/contact)<br>
 This allows users who are having issues to contact the development team to help resolve them.
 <p align="center"><img src="./images/contact_us.PNG" width="400" alt = ""></p>
 
@@ -96,8 +96,7 @@ This page allows new users to create accounts on Manoa Fitness Finder. Once the 
 
 
 ### Edit Profile Page
-[http://manoafitnessfinder.meteorapp.com/#/editprofile/JmfaFLxJx3iq3rptQ](http://manoafitnessfinder.meteorapp.com/#/editprofile/JmfaFLxJx3iq3rptQ)<br>
-Once a user has signed up, they are directed to this page, where they can edit the information that displays on their profile, including information used for matching.
+Once a user has signed up, they are directed to this page, where they can edit the information that displays on their profile, including information used for matching. Due to the url for this page containing a mongoDB Id, it's url won't be included.
 
 <p align="center"><img src="./images/edit_profile.PNG" width="400" alt = ""></p>
 
@@ -108,7 +107,7 @@ This page displays the current user's user profile information (name, age, gende
 <p align="center"><img src="./images/M2-User.png" width="400" alt = ""></p>
 
 ### User Landing Page
-XXX ADD GALAXY LINK<br>
+[http://manoafitnessfinder.meteorapp.com/#/landing](http://manoafitnessfinder.meteorapp.com/#/landing)<br>
 Once a user has logged in, they can view this landing/home page. It shows more relevant information, including events scheduled by users on the logged in user's friend list.
 
 <p align="center"><img src="./images/user_landing.PNG" width="400" alt = ""></p>
@@ -126,14 +125,12 @@ This page lists all events owned (created) by the current user. An event can be 
 <p align="center"><img src="./images/events.png"></p>
 
 ### Edit Event Page
-XXX ADD GALAXY LINK <br>
-This page allows the logged in user to edit events belonging to them. M3 implementation will allow users to choose other users from their friend list for the 'Include a Friend' field.
+This page allows the logged in user to edit events belonging to them. M3 implementation will allow users to choose other users from their friend list for the 'Include a Friend' field. Due to the url for this page containing a mongoDB Id, it's url won't be included.
 
 <p align="center"><img src="./images/edit_event.png" width="400" alt = ""></p>
 
 ### Other Profiles Page
-XXX ADD GALAXY LINK <br>
-This is the page to view another user's profile. The edit user link (for other users than oneself) will be disabled in M3.
+This is the page to view another user's profile. The edit user link (for other users than oneself) will be disabled in M3. Due to the url for this page containing a mongoDB Id, it's url won't be included.
 
 <p align="center"><img src="./images/OtherUser.PNG"></p>
 
