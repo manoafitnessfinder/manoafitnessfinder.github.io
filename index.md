@@ -188,7 +188,7 @@ Milestone 1 was managed using <a href="https://github.com/manoafitnessfinder/app
 ## Milestone 2: Data model development and layout improvement
 For this milestone, we focused on site functionality which relied on a more complex data model. We implemented the All Profiles (soon to be Match), Friend, and Schedule pages, which relied on Collections. We also worked on providing editing functionality via the Edit Profile and Edit Event pages. Finally, we focused on making our site more user friendly in terms of layout and information by cleaning up known bugs, tweaking layouts, and creating the User Landing, Testimonial, and Contact pages.
 
-Milestone 2 was managed using <a href="https://github.com/manoafitnessfinder/app/projects/2">ManoaFitnessFinder GitHub Project Board M1</a>:
+Milestone 2 was managed using <a href="https://github.com/manoafitnessfinder/app/projects/2">ManoaFitnessFinder GitHub Project Board M2</a>:
 
 <p align="center"><img src="./images/milestone_2_complete.PNG" width="400" alt = ""></p>
 
