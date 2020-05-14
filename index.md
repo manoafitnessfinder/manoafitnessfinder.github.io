@@ -127,7 +127,7 @@ This page lists all events owned (created) by the current user. An event can be 
 ### Edit Event Page
 This page allows the logged in user to edit events belonging to them. Due to the url for this page containing a mongoDB Id, it's url won't be included.
 
-<p align="center"><img src="./images/edit_event.png" width="400" alt = ""></p>
+<p align="center"><img src="./images/edit_event2.PNG" width="400" alt = ""></p>
 
 ### Other Profiles Page
 This is the page to view another user's profile. Rather than have an edit profile button an add friend button is displayed. Additionally you can add comments to other people profiles. Due to the url for this page containing a mongoDB Id, it's url won't be included.
