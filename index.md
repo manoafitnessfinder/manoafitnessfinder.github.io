@@ -72,7 +72,7 @@ This page will contain user-submitted reviews to attract new users.
 
 ### About Page
 [http://manoafitnessfinder.meteorapp.com/#/about](http://manoafitnessfinder.meteorapp.com/#/about)<br>
-This page provides information about Manoa Fitness Finder in short, easy to read blurbs. It's meant for prospective users who are confused or curious about how the site works.<br>
+This page provides information about Manoa Fitness Finder in short, easy to read blurbs. It's meant for prospective users who are confused or curious about how the site works. Additionally they can sign up at the bottom of the page.<br>
 
 <p align="center"><img src="./images/M1-About.png" width="400" alt = ""></p>
 
@@ -90,53 +90,53 @@ All links that contain "login" lead here. Much of the site's functionality (e.g.
 
 ### Sign Up Page
 [http://manoafitnessfinder.meteorapp.com/#/signup](http://manoafitnessfinder.meteorapp.com/#/signup)<br>
-This page allows new users to create accounts on Manoa Fitness Finder. Once the user has filled out the user information on this page, they are directed to the Edit Profile page, where they can edit their user information and fill in their matching information.
+This page allows new users to create accounts on Manoa Fitness Finder. Once the user has filled out the user information on this page, they are directed to the user landing page giving them a feel for the site.
 
 <p align="center"><img src="./images/M1-SignUp.PNG" width="400" alt = ""></p>
 
 
 ### Edit Profile Page
-Once a user has signed up, they are directed to this page, where they can edit the information that displays on their profile, including information used for matching. Due to the url for this page containing a mongoDB Id, it's url won't be included.
+After a user has signed up they can edit the information that displays on their profile, including information used for matching. Due to the url for this page containing a mongoDB Id, it's url won't be included.
 
 <p align="center"><img src="./images/edit_profile.PNG" width="400" alt = ""></p>
 
 ### User Profile Page
 [http://manoafitnessfinder.meteorapp.com/#/profile](http://manoafitnessfinder.meteorapp.com/#/profile)<br>
-This page displays the current user's user profile information (name, age, gender, blurb, image) as well as their matching information (interests, seeking, level, goals). It displays the information as another user would view it. On the top right, it contains a link to the Edit Profile page.
+This page displays the current user's user profile information (name, age, gender, blurb, image) as well as their matching information (interests, seeking, level, goals). It displays the information as another user would view it. On the top right, it contains a link to the Edit Profile page. At the bottom the notes other users have left you are displayed.
 
-<p align="center"><img src="./images/M2-User.png" width="400" alt = ""></p>
+<p align="center"><img src="./images/my_own_profile.png" width="400" alt = ""></p>
 
 ### User Landing Page
 [http://manoafitnessfinder.meteorapp.com/#/landing](http://manoafitnessfinder.meteorapp.com/#/landing)<br>
-Once a user has logged in, they can view this landing/home page. It shows more relevant information, including events scheduled by users on the logged in user's friend list.
+Once a user has logged or signed up, they can view this landing/home page. It shows more relevant information, including events scheduled by users on the logged in user's friend list.
 
 <p align="center"><img src="./images/user_landing.PNG" width="400" alt = ""></p>
 
 ### All Users Page
 [http://manoafitnessfinder.meteorapp.com/#/AllProfiles](http://manoafitnessfinder.meteorapp.com/#/AllProfiles)<br>
-This page lists all users on the site. It will contain a filter element that allows the logged in user to search through the list via both user profile information (age, gender) and matching information (interest, level, seeking).
+This page lists all users on the site. From here you can add other people to your friends list so you can which events they have coming up.
 
-<p align="center"><img src="./images/AllProfiles.PNG"></p>
+<p align="center"><img src="./images/all_profiles.png"></p>
 
 ### Schedule Page
 [http://manoafitnessfinder.meteorapp.com/#/schedule](http://manoafitnessfinder.meteorapp.com/#/schedule)<br>
-This page lists all events owned (created) by the current user. An event can be created using the left sidebar; upcoming events are those which are later or equal to today's current minute. All other events are filtered into the past events section, which contains grayed cards. Events in the upcoming section are filtered in ascending order while those in the past section are sorted in descending order. Each event is editable via the link on the bottom right of the card, which takes the user to the Edit Event page.
+This page lists all events owned (created) by the current user. An event can be created using the left sidebar; upcoming events are those which are later than or equal to today's current minute. All other events are filtered into the past events section, which contains grayed cards. Events in the upcoming section are filtered in ascending order while those in the past section are sorted in descending order. Each event is editable via the link on the bottom right of the card, which takes the user to the Edit Event page. Also displayed for each event is the list of friends that have stated they will be joining you for that event.
 
-<p align="center"><img src="./images/events.png"></p>
+<p align="center"><img src="./images/my_events.png"></p>
 
 ### Edit Event Page
-This page allows the logged in user to edit events belonging to them. M3 implementation will allow users to choose other users from their friend list for the 'Include a Friend' field. Due to the url for this page containing a mongoDB Id, it's url won't be included.
+This page allows the logged in user to edit events belonging to them. Due to the url for this page containing a mongoDB Id, it's url won't be included.
 
 <p align="center"><img src="./images/edit_event.png" width="400" alt = ""></p>
 
 ### Other Profiles Page
-This is the page to view another user's profile. The edit user link (for other users than oneself) will be disabled in M3. Due to the url for this page containing a mongoDB Id, it's url won't be included.
+This is the page to view another user's profile. Rather than have an edit profile button an add friend button is displayed. Additionally you can add comments to other people profiles. Due to the url for this page containing a mongoDB Id, it's url won't be included.
 
-<p align="center"><img src="./images/OtherUser.PNG"></p>
+<p align="center"><img src="./images/other_userprofile.PNG"></p>
 
 ### Friends Page
 [http://manoafitnessfinder.meteorapp.com/#/friends](http://manoafitnessfinder.meteorapp.com/#/friends)<br>
-This page lists all the logged in user's added friends. Each friend card is clickable and directs to that person's profile.
+This page lists all the logged in user's added friends. Each friends name is clickable and directs to that person's profile.
 
 <p align="center"><img src="./images/FriendsList.PNG"></p>
 
@@ -206,7 +206,7 @@ Milestone 2 was managed using <a href="https://github.com/manoafitnessfinder/app
 
 ## Milestone 3
 
-For this milestone we focused on usability and reliability and added in minor feature improvements to features that were already implemented in milestones 1 and 2. We added the feature to allow users to "subscribe" to their friends events. The event organizer can see the list of people who have stated that they are coming in the my events page. Lastly we worked on dynamic buttons such as if you are attending your friends event then you dont need to subscribe to the even twice. Similarly for the friends page if you already added a friend the add a friend button is not visible to you.
+For this milestone we focused on usability and reliability and added in minor feature improvements to features that were already implemented in milestones 1 and 2. We added the feature to allow users to "subscribe" to their friends events. The event organizer can see the list of people who have stated that they are coming in the my events page. Lastly we worked on dynamic buttons such as if you are attending your friends event then you dont need to subscribe to the even twice. Similarly if you have already added someone as a friend then the button to add them is not shown.
 
 Milestone 3 was managed using <a href="https://github.com/manoafitnessfinder/app/projects/3">ManoaFitnessFinder GitHub Project Board M3</a>:
 
