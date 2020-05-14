@@ -140,6 +140,21 @@ This page lists all the logged in user's added friends. Each friend card is clic
 
 <p align="center"><img src="./images/FriendsList.PNG"></p>
 
+## Community Feedback
+
+For our user feedback we ended up getting detailed feedback from 8 different people, 5 of which are in the UH community. Their responses are listed below in general categories:
+
+### The Good
+
+Users liked that the site was responsive, ie if you make an event or comment you get an alert saying that it was added successfully. They liked that they could record past events as a way to "log" things they had already done. The site overall was praised for being not cluttered yet still having enough information that the users did not feel lost. Users said that the site felt organized. Users liked that their home page included a list of their upcoming events. Users liked that signing up was simple and straight forward.
+
+### The Bad (and fixed)
+
+Some of the errors brought up by the users were implemented with varying degrees of difficulty. For example, some users were puzzled about the terms and conditions (they were removed). An undefined field was on their profile, this was the gender that they were unable to edit (is accessible in the edit profile page). Upon submission the edit profile page doesn't redirect you back the profile page (fixed it now does this). Notes on the events had an error where it would spill behind other cards(now only displays the first 25 characters). The comments left by a user are hard to track down who left them (the users name is now a link to their profile). Comment box on my own profile (this was removed and was an artifact of digits). Users did not like being the first page that they visit being their edit profile (the first page now displayed after sign up is the user landing page). Not enough interests to their liking (the included list has been updated with more interests).
+
+### The Bad
+
+Users wanted messaging system between users. We did not enough time to or know how to implement this. A filter on the all profiles page. Our issues with this project were mostly mongoDB based and this seemed like a doable but very difficult request. Additionally, with only a few users it is not to much of a hassle at the moment. Having both people agree to a friendship, this was certainly doable but we ran out of time to implement it. 
 
 ## Developer Guide
 
@@ -191,7 +206,9 @@ Milestone 2 was managed using <a href="https://github.com/manoafitnessfinder/app
 
 ## Milestone 3
 
-<a href="https://github.com/manoafitnessfinder/app/projects/3">MileStone 3</a>
+For this milestone we focused on usability and reliability and added in minor feature improvements to features that were already implemented in milestones 1 and 2. We added the feature to allow users to "subscribe" to their friends events. The event organizer can see the list of people who have stated that they are coming in the my events page. Lastly we worked on dynamic buttons such as if you are attending your friends event then you dont need to subscribe to the even twice. Similarly for the friends page if you already added a friend the add a friend button is not visible to you.
 
-<p align="center"><img src="./images/milestone_3.PNG" width="400" alt = ""></p>
+Milestone 3 was managed using <a href="https://github.com/manoafitnessfinder/app/projects/3">ManoaFitnessFinder GitHub Project Board M3</a>:
+
+<p align="center"><img src="./images/M3_complete.PNG" width="400" alt = ""></p>
 
