@@ -152,9 +152,9 @@ Users liked that the site was responsive, ie if you make an event or comment you
 
 Some of the errors brought up by the users were implemented with varying degrees of difficulty. For example, some users were puzzled about the terms and conditions (they were removed). An undefined field was on their profile, this was the gender that they were unable to edit (is accessible in the edit profile page). Upon submission the edit profile page doesn't redirect you back the profile page (fixed it now does this). Notes on the events had an error where it would spill behind other cards(now only displays the first 25 characters). The comments left by a user are hard to track down who left them (the users name is now a link to their profile). Comment box on my own profile (this was removed and was an artifact of digits). Users did not like being the first page that they visit being their edit profile (the first page now displayed after sign up is the user landing page). Not enough interests to their liking (the included list has been updated with more interests).
 
-### The Bad
+### The Still Bad
 
-Users wanted messaging system between users. We did not enough time to or know how to implement this. A filter on the all profiles page. Our issues with this project were mostly mongoDB based and this seemed like a doable but very difficult request. Additionally, with only a few users it is not to much of a hassle at the moment. Having both people agree to a friendship, this was certainly doable but we ran out of time to implement it. 
+Users wanted messaging system between users. We did not have enough time to or know how to implement this. A filter on the all profiles page. Our issues with this project were mostly mongoDB based and this seemed like a doable but very difficult request. Additionally, with only a few users it is not to much of a hassle at the moment. Having both people agree to a friendship, this was certainly doable but we ran out of time to implement it. 
 
 ## Developer Guide
 
